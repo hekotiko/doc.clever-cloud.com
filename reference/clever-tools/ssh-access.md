@@ -30,6 +30,7 @@ While direct SSH access to instances is not recommended in an [immutable infrast
 
 You need to have the Clever Tools CLI installed locally.
 
+
 [//]: # (ref "/getting-started/clever-tools-intro.md)
 
 
